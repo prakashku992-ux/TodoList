@@ -23,7 +23,7 @@ A simple To-Do List application built with Spring Boot, Thymeleaf, and Spring Se
 
 ### Prerequisites
 
-- Java JDK (8 or higher)
+- Java JDK ( 19)
 - Maven
 - Your preferred IDE (IntelliJ IDEA, Eclipse, etc.)
 - MySQL/PostgreSQL/H2 Database (Make sure you have it installed and running)
@@ -33,7 +33,7 @@ A simple To-Do List application built with Spring Boot, Thymeleaf, and Spring Se
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/AnantSingh1510/Tasks-SpringBoot.git
+   git clone https://github.com/prakashku992-ux/TodoList.git
    ```
 
 2. Navigate to the project directory:
